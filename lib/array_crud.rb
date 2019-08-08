@@ -9,6 +9,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  when "takes arguments of an array and an element and adds that element to the end of the array" do
   my_array << "mango_guava"
 
 end
