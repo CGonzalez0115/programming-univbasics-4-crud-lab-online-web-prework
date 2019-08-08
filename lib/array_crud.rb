@@ -36,12 +36,16 @@ end
 
 def retrieve_first_element_from_array(array)
   my_array.index
+  
 end
 
 def retrieve_last_element_from_array(array)
+  my_array[3]
 
 end
 
 def update_element_from_index(array, index_number, element)
+  my_array[2] = "cocao"
+=> "cocao"
 
 end
