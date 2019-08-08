@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  my_array=["pineapple", "coconut"]
+  my_array=["pineapple", "coconut", "duran", "starfruit"]
 
 end
 
@@ -19,7 +19,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  coconut = my_array.pop
+  starfruit = my_array.pop
 
 end
 
